@@ -9,7 +9,8 @@ An AI-powered tool that evaluates prompts, scores their quality, and rewrites th
 ---
 
 ## 🖼️ Preview
-
+<img width="1833" height="922" alt="image" src="https://github.com/user-attachments/assets/fe288f16-7d4a-4121-94f5-744315f09de0" />
+<img width="1885" height="490" alt="image" src="https://github.com/user-attachments/assets/94b8d7fb-f508-410b-b409-5694683dc8e6" />
 
 ---
 
